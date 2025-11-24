@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "Leche Gloria Entera 1L",
+    "url": "https://www.tottus.com.pe/producto/...",
+    "store": "tottus",
+    "category": "supermercado"
+  },
+  {
+    "id": 2,
+    "name": "Smart TV Samsung 55 4K",
+    "url": "https://www.falabella.com.pe/falabella-pe/product/...",
+    "store": "falabella",
+    "category": "tecnologia"
+  }
+]
